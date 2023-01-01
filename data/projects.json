@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Pc Builder",
+      "title": "Used pc components selling Web Application.",
+      "live": "https://pcbuilder-504bc.web.app/",
+      "client": "https://github.com/ifty17/Pc-builder-client",
+      "server": "https://github.com/ifty17/Pc-builder-server",
+      "img1": "https://i.ibb.co/fGFPs6S/pcbuilder.png",
+      "img2": "https://i.ibb.co/6Wj0nhp/pcbuilder3.png",
+      "img3": "https://i.ibb.co/bKFh072/pcbuilder2.png",
+      "details1": "Users can create two types of accounts: Buyer account & Seller account when they sign in. Also this website has an admin route only for admin.",
+      "details2": " Sellers can add products and delete products also they can see their products and they can advertise their products. Admin can see all sellers and all buyers and reported items. Admin can delete a seller or buyer if he wants also admin can verify any sellers.",
+      "details3": " Admin account details are given in the Github readme.md file. Buyers can buy products & see their orders.",
+      "packages": "React, React Router dom, React Query, React Custom Hook, React Icons, Node JS Express JS, MongoDB, Firebase, Environment Variable, Tailwind CSS"
+    },
+    {
+      "id": 2,
+      "name": "Dev Platform",
+      "title": "A social media Web Application..",
+      "live": "https://dev-platform-86932.web.app/home",
+      "client": "https://github.com/ifty17/dev-platform-client",
+      "server": "https://github.com/ifty17/dev-platform-server",
+      "img1": "https://i.ibb.co/prnjyBx/Screenshot-2023-01-01-233143.png",
+      "img2": "https://i.ibb.co/Xk8gj9w/Screenshot-2023-01-01-233236.png",
+      "img3": "https://i.ibb.co/zffXFXx/Screenshot-2023-01-01-234940.png",
+      "details1": "Users can post about any topic in Dev platform also users can see other posts when they're logged In.",
+      "details2": "Users can like & comment in any post also they can see all comments.",
+      "details3": "In the home page users can see top 3 most reacted post And users can edit their profile.",
+      "packages": "React, React Router dom, React Query, React Icons, Node JS Express JS, MongoDB, Firebase, Environment Variable, Tailwind CSS"
+    },
+    {
+        "id" : 3,
+        "name" : "Nature tti",
+        "title" : "A photography service providing Web Application.",
+        "live" : "https://assignment-11-fd0c0.web.app/",
+        "client" : "https://github.com/ifty17/Nature-tti-client",
+        "server" : "https://github.com/ifty17/Nature-tti-server",
+        "img1" : "https://i.ibb.co/7zk8wC6/nature.png",
+        "img2" : "https://i.ibb.co/dDhFPJY/nature3.png",
+        "img3" : "https://i.ibb.co/bBkf2HN/nature2.png",
+        "details1" : "You can add a service in this website and you can also add a review of a specific product you can also see other peoples review.",
+        "details2" : "When you give multiple or single review you can see all your reviews in My reviews option.",
+        "details3" : "When you login in you will see two more options in navbar.",
+        "packages" : "React , Node JS, Express JS MongoDB, Firebase, Tailwind CSS & Environment variable, Vercel."
+    },
+    {
+      "id": 4,
+      "name": "Pro Coder",
+      "title": "An e-learning platform to learn programming.",
+      "live": "https://assignment-10-78b70.web.app/",
+      "client": "https://github.com/ifty17/Pro-coder-client",
+      "server": "https://github.com/ifty17/Pro-coder-server",
+      "img1": "https://i.ibb.co/7Sksd9D/procoder.png",
+      "img2": "https://i.ibb.co/T8nXYvR/procoder2.png",
+      "img3": "https://i.ibb.co/hZjSk1s/procoder3.png",
+      "details1": "At the top of the navbar you can see four options when you click the Courses option you will see all the courses.",
+      "details2": "When you click the side navbar option it will take you to the details page and you can download course documentation (PDF).",
+      "details3": "When you click the Buy now button it will take you to the login page if you are not logged in. If you logged in it will take you to the Checkout page.",
+      "packages": "React , Firebase for authentication, Node JS, Express JS Tailwind CSS & Daisy UI for style frontend side & Environment variable to hide secret key, Vercel for hosting API."
+    }
+]
